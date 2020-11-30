@@ -52,14 +52,18 @@ body {
     position: relative;
     margin: auto;
     border: 20px ridge #FFFF
+    
         
 }
-.WildBoar{
-    position: absolute;
-    left: 250px;
-    bottom: 10px;
-    float: top;
-    width: 25vw;
+.WildBoar img{
+    display: block;
+    width: 10%;
+    height: 10%;
+
+    
+    
+    
+    
 
 }
 
